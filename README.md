@@ -11,6 +11,6 @@ budget, and a floating button for quick transaction entry, plus easy options to 
 making money management simple and intuitive. Also, budget limit exceeding notifications are 
 enabled using Notifications Manager. Moreover, users can backup their data and export them when 
 needed.
-![analysis](https://github.com/user-attachments/assets/716e2a55-c771-410f-b9fc-e52787bcc8f2)
-![nav_drawer](https://github.com/user-attachments/assets/4695bf19-81e5-454f-b95e-d95eb4f00e79)
 ![home](https://github.com/user-attachments/assets/f2ceee6e-5b11-4952-bf15-ff830e1669a2)
+![nav_drawer](https://github.com/user-attachments/assets/4695bf19-81e5-454f-b95e-d95eb4f00e79)
+![analysis](https://github.com/user-attachments/assets/716e2a55-c771-410f-b9fc-e52787bcc8f2)
